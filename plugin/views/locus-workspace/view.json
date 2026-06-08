@@ -1,0 +1,19 @@
+{
+  "schema": "locus.view.v1",
+  "apiVersion": "v0.3.0",
+  "id": "locus-workspace",
+  "name": "Locus Workspace",
+  "version": "0.1.0",
+  "template": "canvas-board",
+  "displayPath": "Locus Workspace",
+  "icon": "Grid2X2",
+  "entry": "src/main.ts",
+  "style": "src/style.css",
+  "scripts": [],
+  "capabilities": {
+    "unity": true
+  },
+  "requirements": {
+    "unityConnection": false
+  }
+}
