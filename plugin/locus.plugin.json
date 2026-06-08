@@ -1,0 +1,22 @@
+{
+  "compatibility": {
+    "projectIndependent": true
+  },
+  "components": {
+    "agents": [],
+    "skills": [],
+    "views": [
+      {
+        "id": "locus-workspace",
+        "path": "views/locus-workspace"
+      }
+    ]
+  },
+  "dependencies": {
+    "project": []
+  },
+  "id": "locus-workspace",
+  "name": "Locus Workspace",
+  "schemaVersion": 1,
+  "version": "0.1.0"
+}
